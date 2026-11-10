@@ -1,7 +1,7 @@
 ---
 title: "Quartz Motion Notes"
 project: quartz-motion-notes
-status: under-review
+status: published
 track: notes
 cycle: 2026-Q4
 updated: 2026-10-18
