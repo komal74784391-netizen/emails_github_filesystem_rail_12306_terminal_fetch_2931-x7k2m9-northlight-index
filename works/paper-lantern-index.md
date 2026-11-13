@@ -1,7 +1,7 @@
 ---
 title: "Paper Lantern Index"
 project: paper-lantern-index
-status: under-review
+status: shelved
 track: archive
 cycle: 2026-Q4
 updated: 2026-10-12
